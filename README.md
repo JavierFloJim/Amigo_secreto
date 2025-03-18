@@ -21,7 +21,7 @@ Esta es una aplicación web sencilla que permite a los usuarios ingresar nombres
 
 - HTML5
 - CSS3
-- JavaScript (Vanilla)
+- JavaScript
 
 ## 🖥️ Instalación y ejecución
 
